@@ -1,0 +1,18 @@
+#tbUsers, #tbUsers td, #tbUsers th , #tbMeetings th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#tbUsers th {
+    background-color: #4CAF50;
+    color: white;
+} 
+
+#tbMeetings th {
+    background-color: #ff0303;
+    color: rgb(0, 26, 255);
+}   
+
+td {
+    padding: 1px;
+}
